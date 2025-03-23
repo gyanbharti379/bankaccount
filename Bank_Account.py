@@ -122,15 +122,7 @@ while True:
     elif choice == 6:
         print("Thank you for using the bank!")
         break
-    
-# a1 = BankAccount("Gyan Bharti",20000)
-# a2 = BankAccount("Mohan",20000)
-# a1.deposit(10000)
-# a2.withdrawal(5000)
-# a1.fund_transfer(5000,a2.account_number)
-# a1.check_balance()
-# a2.check_balance()
-# BankAccount.all_customers()
+
 
 
 
